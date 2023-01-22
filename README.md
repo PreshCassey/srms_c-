@@ -2,8 +2,6 @@
 ### A student record management software is a tool that tracks, record, manage and maintain student information in an institute. This application is basically for the school 
 ### In simple words, a student record management system is a software solution that was developed especially for education institutes to help tackle little operational challenges. The system is CLI-base and will allow you to automate collection of student data in improving efficiency and accuracy
 
-# LIMITATION 
-### -The text file keeps encoding into mojibake format, we tried converting the text fie to a UTF-8 but anytime we rerun the program it goes back to ANSI encoding 
 ### -This mini project research work is about creating a command-line C++ software named: STUDENT RECORD MANAGEMENT SYSTEM that helps in computerizing the process of managing student record.
 
 # The software after creation would be able to save student record on a text file 
